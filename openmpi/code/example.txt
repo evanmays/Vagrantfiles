@@ -1,0 +1,1 @@
+This folder is synced between host machine and virtual machine
